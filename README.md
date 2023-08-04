@@ -1,2 +1,1 @@
-# blog-microsservices-moderation
-Blog Microsservices - Moderation
+# Blog Microservices - Moderation
